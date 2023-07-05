@@ -1,4 +1,6 @@
-# cafeComVogal
+# classesNumericas
+
+Basta digitar ```pip install classesNumericas``` no terminal para usar em seus scripts.
 
 **classesNumericas** é um pacote, cujo intuito é obter as classes numéricas de número inteiros.
 **classes_numericas()**. Essa é responsável por encontrar tais classes.
